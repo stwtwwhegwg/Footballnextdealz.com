@@ -1,0 +1,15 @@
+footballnextdealz-website/
+├── node_modules/
+├── public/
+│   ├── favicon.ico
+│   └── index.html
+├── src/
+│   ├── pages/
+│   │   ├── Download.js
+│   │   ├── Home.js
+│   │   └── News.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+└── vercel.json
