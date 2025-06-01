@@ -1,0 +1,41 @@
+/* Globale Basis-Styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+a {
+  color: #004d99;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  background-color: #004d99;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: white;
+  font-weight: 600;
+}
+
+.container {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2, h3 {
+  color: #004d99;
+}
