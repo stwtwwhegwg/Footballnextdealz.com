@@ -1,0 +1,12 @@
+/src
+  └── App.jsx oder App.tsx
+  └── main.jsx oder index.jsx
+  └── components/
+  └── pages/
+/public
+  └── index.html
+/package.json
+/vite.config.js (oder next.config.js)
+/vercel.json
+/README.md
+.gitignore
